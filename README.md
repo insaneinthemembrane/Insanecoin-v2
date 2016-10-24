@@ -34,7 +34,7 @@ Insane is independent of trump. It is a new compile, with a different genesis bl
 
 # Destroying a Trumpinsane Bounty Pot #
 
-<p>The Bounty Pot which was sent by me to<a href="http://109.169.57.125:3001/address/THNHFC6SxHw6ngjcmBNxCy4an2P7D4hXEj" target="_blank">THNHFC6SxHw6ngjcmBNxCy4an2P7D4hXEj</a> serves no purpose now and it is not one personś property. It should also be destroyed for security reasons or the risk of it being used to claim free insane. Again it should be sent here:</p>
+<p>The Bounty Pot which was sent by me to <a href="http://109.169.57.125:3001/address/THNHFC6SxHw6ngjcmBNxCy4an2P7D4hXEj" target="_blank">THNHFC6SxHw6ngjcmBNxCy4an2P7D4hXEj</a> serves no purpose now, and it is not one persons property. It should also be destroyed for security reasons, or the risk of it being used to claim free insane. Again it should be sent here:</p>
 
 <p><a href="http://109.169.57.125:3001/address/TBurntrumpinsaneCoinSwapDeadZMtQWg" target="_blank">TBurntrumpinsaneCoinSwapDeadZMtQWg</a></p>
 
@@ -45,7 +45,7 @@ Insane is independent of trump. It is a new compile, with a different genesis bl
 
 # An extra 7.5 million insane #
 
-<p>There is circa 7.5 million insane to decide about what to do with. This is the money left over after all swaps have been undertaken. Under Trumpinsane 6.5 million had stood unused in 1 account. It seems that a different more adventeroius strategy should be decided by all stakeholders on what to with that extra insane. It is NOT, the property of any single individual. If it disappears into different accounts it has been taken. </p>
+<p>There is circa 7.5 million insane to decide about what to do with. This is the money left over after all swaps have been undertaken. Under Trumpinsane 6.5 million had stood unused in 1 account. It seems that a different more adventerous strategy should be decided by all stakeholders on what to with that extra insane. It is NOT, the property of any single individual. If it disappears into different accounts it has been taken. </p>
 
 ----
 
