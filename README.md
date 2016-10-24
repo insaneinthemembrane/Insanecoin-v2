@@ -20,7 +20,7 @@ Insane is independent of trump. It is a new compile, with a different genesis bl
 # Destroying Returned Trumpinsane #
 
 
-<p>Trumpinsane coins sent to be swapped for insane coins ahould not be left lying around in 1 account address, especially so if these coins are then staked causing network instability and slow-down. In addition, it is a security risk as they could be stolen or used by the account holder to claim free insane.</p>
+<p>Trumpinsane coins sent to be swapped for insane coins ahould not be left lying around in 1 account address, <a href="http://109.169.57.125:3001/address/TQoEjW3d8WQhCmvTgbMj1fRqdrVsRLEqyS" target="_blank">TBurntrumpinsaneCoinSwapDeadZMtQWg</a>, especially so if these coins are then staked causing network instability and slow-down. In addition, it is a security risk as they could be stolen or used by the account holder to claim free insane.</p>
 
 <p>After a claim has been settled the Trumpinsane should be destroyed. An address was made for this purpose. It was made using a Python Base58 and Base58Check implementation template. No private key was generated and the coins do not stake, nor can they be removed by anyone.</p>
 
