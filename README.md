@@ -52,7 +52,7 @@ Insane is independent of trump. It is a new compile, with a different genesis bl
 # Insane Explorer #
 
 
-<p>An explorer is running here, which I have put up (making it 2 explorers I am running), but alternative arrangements sould made:</p>
+<p>An explorer is running here, which I have put up (making it 2 explorers I am running), but alternative arrangements should made:</p>
 
 <p><a href="http://216.189.144.26:3001/" target="_blank">http://216.189.144.26:3001/</a></p>
 
@@ -105,7 +105,7 @@ addnode=216.189.144.26</p>
 
 # extra #
 
-<p> Coin swap details and mining details to be provided at <a href="https://bitcointalk.org/index.php?topic=1625942.0" target="_blank">bitcointalk</a> by any interested parties. This includes whaat to do wwith the extra 7.5 million insane.</p>
+<p> Coin swap details and mining details to be provided at <a href="https://bitcointalk.org/index.php?topic=1625942.0" target="_blank">bitcointalk</a> by any interested parties. This includes what to do with the extra 7.5 million insane.</p>
 
 ----
 
