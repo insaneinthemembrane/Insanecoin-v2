@@ -1,6 +1,6 @@
 # from trumpinsane to insane: a coin swap #
 
-Insane is independent of trump. It is a new compile, with a different genesis block, merkel hash root, nonce, unix start time, ports, pchMessages, base58 address which begins with the letter "i" for insane. It is a new chain and can not intermingle with its predecessor. It retains similar characteristics (see below). One difference is to allow mining up to 14,000 blocks, to give an opportunity for people to mine it. Mining is available at <a href="http://cryptominers.online:8080/getting_started" target="_blank">Cryptominers</a>.
+Insane is independent of trump. It is a new compile, with a different genesis block, merkel hash root, nonce, unix start time, ports, pchMessages, base58 address which begins with the letter "i" for insane. It is a new chain and can not intermingle with its predecessor. It retains similar characteristics (see below). One difference is to allow mining up to 14,000 blocks, to give an opportunity for people to mine it. 
 
 
 ----
@@ -18,6 +18,20 @@ Insane is independent of trump. It is a new compile, with a different genesis bl
 - Maximised Stake Age is 120 hours
 
 ----
+
+# Mining 14000 blocks #
+
+<p>Mining is available at <a href="http://cryptominers.online:8080/getting_started" target="_blank">CRYPTOMINERS.ONLINE</a>.</p>
+
+
+----
+
+# Swapping Coins #
+
+<p>The deadline is in early to mid November. Check at <a href="http://insanecoin.com" target="_blank">insanecoin.com</a>, and at <a href="https://bitcointalk.org/index.php?topic=1625942.0" target="_blank">the bitcointalk insane thread</a> to make sure you do not miss the deadline.</p>
+
+----
+
 
 # Destroying Returned Trumpinsane #
 
@@ -43,6 +57,9 @@ Insane is independent of trump. It is a new compile, with a different genesis bl
 <p>at the moment 1 person has at least 16 million of 21 million Trumpinsane, and more than half of those are being staked. The network is slowing down considerably due to that.</p>
 
 <p><strong>Edit. I am assured the staking issues were a mistake and have now been rectified.</strong></p>
+<p><strong>Update. About 15 or 16 million trumpinsane found their way to the burn address.</strong></p>
+
+<p><strong>NB. Check on <a href="http://insanecoin.com" target="_blank">insanecoin.com</a>, and at <a href="https://bitcointalk.org/index.php?topic=1625942.0" target="_blank">the bitcointalk insane thread</a> to make sure you send to  the correct admin address. Do not send directly to the burn address.</strong></p>
 
 
 ----
