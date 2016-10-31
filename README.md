@@ -28,15 +28,12 @@ Insane is independent of trump. It is a new compile, with a different genesis bl
 
 # Swapping Coins #
 
-<p>The deadline is in early to mid November. Check at <a href="http://insanecoin.com" target="_blank">insanecoin.com</a>, and at <a href="https://bitcointalk.org/index.php?topic=1625942.0" target="_blank">the bitcointalk insane thread</a> to make sure you do not miss the deadline.</p>
+<p>The deadline is in early to mid November. Check at <a href="http://insanecoin.com" target="_blank">insanecoin.com</a>, and at <a href="https://bitcointalk.org/index.php?topic=1625942.0" target="_blank">the bitcointalk insane thread</a> to make sure you do not miss the deadline.</p> The address to return coins to is: <a href="http://109.169.57.125:3001/address/THNHFC6SxHw6ngjcmBNxCy4an2P7D4hXEj" target="_blank">THNHFC6SxHw6ngjcmBNxCy4an2P7D4hXEj</a> 
 
 ----
 
 
 # Destroying Returned Trumpinsane #
-
-
-<p>Trumpinsane coins sent to be swapped for insane coins ahould not be left lying around in 1 account address, <a href="http://109.169.57.125:3001/address/TQoEjW3d8WQhCmvTgbMj1fRqdrVsRLEqyS" target="_blank">TQoEjW3d8WQhCmvTgbMj1fRqdrVsRLEqyS</a>, especially so if these coins are then staked causing network instability and slow-down. In addition, it is a security risk as they could be stolen or used by the account holder to claim free insane.</p>
 
 <p>After a claim has been settled the Trumpinsane should be destroyed. An address was made for this purpose. It was made using a Python Base58 and Base58Check implementation template. No private key was generated and the coins do not stake, nor can they be removed by anyone.</p>
 
@@ -48,16 +45,11 @@ Insane is independent of trump. It is a new compile, with a different genesis bl
 
 ----
 
-# Destroying a Trumpinsane Bounty Pot #
+# Trumpinsane Bounty Pot #
 
-<p>The Bounty Pot which was sent by me to <a href="http://109.169.57.125:3001/address/THNHFC6SxHw6ngjcmBNxCy4an2P7D4hXEj" target="_blank">THNHFC6SxHw6ngjcmBNxCy4an2P7D4hXEj</a> serves no purpose now, and it is not one persons property. It should also be destroyed for security reasons, or the risk of it being used to claim free insane. Again it should be sent here:</p>
+<p>The Bounty Pot sent by me to <a href="http://109.169.57.125:3001/address/THNHFC6SxHw6ngjcmBNxCy4an2P7D4hXEj" target="_blank">THNHFC6SxHw6ngjcmBNxCy4an2P7D4hXEj</a> is destroyed. Other coins returned to <a href="http://109.169.57.125:3001/address/THNHFC6SxHw6ngjcmBNxCy4an2P7D4hXEj" target="_blank">THNHFC6SxHw6ngjcmBNxCy4an2P7D4hXEj</a> will aso be destroyed after they have confirmed and the transaction checked.:</p>
 
 <p><a href="http://109.169.57.125:3001/address/TBurntrumpinsaneCoinSwapDeadZMtQWg" target="_blank">TBurntrumpinsaneCoinSwapDeadZMtQWg</a></p>
-
-<p>at the moment 1 person has at least 16 million of 21 million Trumpinsane, and more than half of those are being staked. The network is slowing down considerably due to that.</p>
-
-<p><strong>Edit. I am assured the staking issues were a mistake and have now been rectified.</strong></p>
-<p><strong>Update. About 15 or 16 million trumpinsane found their way to the burn address.</strong></p>
 
 <p><strong>NB. Check on <a href="http://insanecoin.com" target="_blank">insanecoin.com</a>, and at <a href="https://bitcointalk.org/index.php?topic=1625942.0" target="_blank">the bitcointalk insane thread</a> to make sure you send to  the correct admin address. Do not send directly to the burn address.</strong></p>
 
@@ -66,14 +58,14 @@ Insane is independent of trump. It is a new compile, with a different genesis bl
 
 # An extra 7.5 million insane #
 
-<p>There is circa 7.5 million insane to decide about what to do with. This is the money left over after all swaps have been undertaken. Under Trumpinsane 6.5 million had stood unused in 1 account. It seems that a different more adventerous strategy should be decided by all stakeholders on what to with that extra insane. It is NOT, the property of any single individual. If it disappears into different accounts it has been taken. </p>
+<p>There is circa 7.5 million insane to decide about what to do with. This is the money left over after all swaps have been undertaken. Under Trumpinsane 6.5 million had stood unused in 1 account. </p>
 
 ----
 
 # Insane Explorer #
 
 
-<p>An explorer is running here, which I have put up (making it 2 explorers I am running), but alternative arrangements should made:</p>
+<p>An explorer is running here, which I have put up, (but alternative arrangements will be made):</p>
 
 <p><a href="http://216.189.144.26:3001/" target="_blank">http://216.189.144.26:3001/</a></p>
 
