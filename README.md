@@ -59,7 +59,7 @@ Insane is independent of trump. It is a new compile, with a different genesis bl
 
 # An extra 7.5 million insane #
 
-<p>There is circa 7.5 million insane to decide about what to do with. This is the money left over after all swaps have been undertaken. Under Trumpinsane 6.5 million had stood unused in 1 account. </p>
+<p>There is circa 7.5 million insane to decide about what to do with. This is the money left over after all swaps have been undertaken. Under Trumpinsane the same amount had been set aside for bounties, faucets, dice, wed design, etc. This account does not stake.</p>
 
 ----
 
