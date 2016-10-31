@@ -51,7 +51,6 @@ Insane is independent of trump. It is a new compile, with a different genesis bl
 
 <p>The Bounty Pot sent by me to <a href="http://109.169.57.125:3001/address/THNHFC6SxHw6ngjcmBNxCy4an2P7D4hXEj" target="_blank">THNHFC6SxHw6ngjcmBNxCy4an2P7D4hXEj</a> is destroyed. Other coins returned to <a href="http://109.169.57.125:3001/address/THNHFC6SxHw6ngjcmBNxCy4an2P7D4hXEj" target="_blank">THNHFC6SxHw6ngjcmBNxCy4an2P7D4hXEj</a> will aso be destroyed after they have confirmed and the transaction checked.:</p>
 
-<p><a href="http://109.169.57.125:3001/address/TBurntrumpinsaneCoinSwapDeadZMtQWg" target="_blank">TBurntrumpinsaneCoinSwapDeadZMtQWg</a></p>
 
 <p><strong>NB. Check on <a href="http://insanecoin.com" target="_blank">insanecoin.com</a>, and at <a href="https://bitcointalk.org/index.php?topic=1625942.0" target="_blank">the bitcointalk insane thread</a> to make sure you send to  the correct admin address. Do not send directly to the burn address.</strong></p>
 
