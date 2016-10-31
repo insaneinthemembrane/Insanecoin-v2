@@ -28,7 +28,9 @@ Insane is independent of trump. It is a new compile, with a different genesis bl
 
 # Swapping Coins #
 
-<p>The deadline is in early to mid November. Check at <a href="http://insanecoin.com" target="_blank">insanecoin.com</a>, and at <a href="https://bitcointalk.org/index.php?topic=1625942.0" target="_blank">the bitcointalk insane thread</a> to make sure you do not miss the deadline.</p> The address to return coins to is: <a href="http://109.169.57.125:3001/address/THNHFC6SxHw6ngjcmBNxCy4an2P7D4hXEj" target="_blank">THNHFC6SxHw6ngjcmBNxCy4an2P7D4hXEj</a> 
+<p>The deadline is in early to mid November. Check at <a href="http://insanecoin.com" target="_blank">insanecoin.com</a>, and at <a href="https://bitcointalk.org/index.php?topic=1625942.0" target="_blank">the bitcointalk insane thread</a> to make sure you do not miss the deadline.</p> The address to return coins to is: <a href="http://109.169.57.125:3001/address/THNHFC6SxHw6ngjcmBNxCy4an2P7D4hXEj" target="_blank">THNHFC6SxHw6ngjcmBNxCy4an2P7D4hXEj</a> </p>
+
+
 
 ----
 
