@@ -17,6 +17,14 @@ Insane is independent of trump. It is a new compile, with a different genesis bl
 - Minimum Stake Age is 12 hours
 - Maximised Stake Age is 120 hours
 
+
+----
+
+# Yobit Exchange #
+
+<p>Insane is available at <a href="https://yobit.net/en/trade/INSANE/BTC" target="_blank">Yobit INSANE/BTC</a>.</p>
+
+
 ----
 
 # Mining 14000 blocks #
@@ -68,7 +76,8 @@ Insane is independent of trump. It is a new compile, with a different genesis bl
 
 <p>An explorer is running here, which I have put up, (but alternative arrangements will be made):</p>
 
-<p><a href="http://216.189.144.26:3001/" target="_blank">http://216.189.144.26:3001/</a></p>
+<p><a href="http://explorer.insanecoin.com:3001/" target="_blank">explorer.insanecoin.com</a></p>
+
 
 ----
 <p>insane.conf</p>
@@ -131,7 +140,6 @@ addnode=216.189.144.26</p>
 ----
 
 <p>Best of luck, Mountaind</p>
-
 
 
 
