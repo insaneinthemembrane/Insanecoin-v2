@@ -31,6 +31,11 @@ Insane is independent of trump. It is a new compile, with a different genesis bl
 
 <p>Mining is available at <a href="http://cryptominers.online:8080/getting_started" target="_blank">CRYPTOMINERS.ONLINE</a>.</p>
 
+----
+
+# Joint Staking #
+
+<p>Online joint staking is available at <a href="https://poswallet.com/login.php" target="_blank">POSWALLET.COM</a>. There is also a faucet there and explorer.</p>
 
 ----
 
@@ -97,7 +102,7 @@ addnode=216.189.144.26</p>
 
 # Windows QT (Mac on its way) #
 
-<p><a href="http://crunckspool.co.uk/wallets/insane-qt.exe" target="_blank">crunckspool</a>, with mining to follow</p>
+<p><a href="https://mega.nz/#!u9xBDQIS!U7--wEDaGkLyYy4YqPqWcISCnap0WsGZb-E-RzPdThg" target="_blank">Download</a></p>
 
 ----
 
