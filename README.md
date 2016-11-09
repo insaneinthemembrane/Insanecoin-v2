@@ -1,12 +1,7 @@
-# from trumpinsane to insane: a coin swap #
-
-Insane is independent of trump. It is a new compile, with a different genesis block, merkel hash root, nonce, unix start time, ports, pchMessages, base58 address which begins with the letter "i" for insane. It is a new chain and can not intermingle with its predecessor. It retains similar characteristics (see below). One difference is to allow mining up to 14,000 blocks, to give an opportunity for people to mine it. 
-
+# Welcome to the INSANE [COIN] repository # 
 
 ----
 
-
-- Coin Swap to avoid confusion and make coin exchange friendly
 - Algorithm: X11
 - Ticker: INSANE 
 - INSANE count: 22,000,000
@@ -15,15 +10,29 @@ Insane is independent of trump. It is a new compile, with a different genesis bl
 - 50 coins reward per block till 14,000
 - Block times averaging 8 minutes
 - Minimum Stake Age is 12 hours
-- Maximised Stake Age is 120 hours
+- Maximum Stake Age is 120 hours
 
+
+----
+
+# Home Page #
+
+<p>Insane homepage is <a href="https://yobit.net/en/trade/INSANE/BTC" target="_blank">insanecoin.com</a>, and Twitter page is <a href="https://twitter.com/insanecoin" target="_blank">@insanecoin</a></p>
+
+<p>All necessary details about links to faucets, dice, blackjack and so on, can be found listed there.</p>
 
 ----
 
 # Yobit Exchange #
 
-<p>Insane is available at <a href="https://yobit.net/en/trade/INSANE/BTC" target="_blank">Yobit INSANE/BTC</a>.</p>
+<p>Insane is available to trade at <a href="https://yobit.net/en/trade/INSANE/BTC" target="_blank">Yobit INSANE/BTC</a>.</p>
 
+
+----
+
+# Coinmarket Cap #
+
+<p>Insane's market position can be found at <a href="http://coinmarketcap.com/currencies/insanecoin/" target="_blank">coinmarketcap.com</a>.</p>
 
 ----
 
@@ -39,40 +48,9 @@ Insane is independent of trump. It is a new compile, with a different genesis bl
 
 ----
 
-# Swapping Coins #
-
-<p>The deadline is in early to mid November. Check at <a href="http://insanecoin.com" target="_blank">insanecoin.com</a>, and at <a href="https://bitcointalk.org/index.php?topic=1625942.0" target="_blank">the bitcointalk insane thread</a> to make sure you do not miss the deadline.</p> The address to return coins to is: <a href="http://109.169.57.125:3001/address/THNHFC6SxHw6ngjcmBNxCy4an2P7D4hXEj" target="_blank">THNHFC6SxHw6ngjcmBNxCy4an2P7D4hXEj</a> </p>
-
-
-
-----
-
-
-# Destroying Returned Trumpinsane #
-
-<p>After a claim has been settled the Trumpinsane should be destroyed. An address was made for this purpose. It was made using a Python Base58 and Base58Check implementation template. No private key was generated and the coins do not stake, nor can they be removed by anyone.</p>
-
-<p><a href="http://109.169.57.125:3001/address/TBurntrumpinsaneCoinSwapDeadZMtQWg" target="_blank">TBurntrumpinsaneCoinSwapDeadZMtQWg</a></p>
-
-<p>Broken down: "T Burn trumpinsane CoinSwap Dead ZMtQWg." </p>
-
-<p>The last six characters, ZMtQWg, act as a checksum, and are generated using the Python Base58 and Base58Check implementation template along with the first 28 chosen characters.</p>
-
-----
-
-# Trumpinsane Bounty Pot #
-
-<p>The Bounty Pot sent by me to <a href="http://109.169.57.125:3001/address/THNHFC6SxHw6ngjcmBNxCy4an2P7D4hXEj" target="_blank">THNHFC6SxHw6ngjcmBNxCy4an2P7D4hXEj</a> is destroyed. Other coins returned to <a href="http://109.169.57.125:3001/address/THNHFC6SxHw6ngjcmBNxCy4an2P7D4hXEj" target="_blank">THNHFC6SxHw6ngjcmBNxCy4an2P7D4hXEj</a> will aso be destroyed after they have confirmed and the transaction checked.:</p>
-
-
-<p><strong>NB. Check on <a href="http://insanecoin.com" target="_blank">insanecoin.com</a>, and at <a href="https://bitcointalk.org/index.php?topic=1625942.0" target="_blank">the bitcointalk insane thread</a> to make sure you send to  the correct admin address. Do not send directly to the burn address.</strong></p>
-
-
-----
-
 # An extra 7.5 million insane #
 
-<p>There is circa 7.5 million insane to decide about what to do with. This is the money left over after all swaps have been undertaken. Under Trumpinsane the same amount had been set aside for bounties, faucets, dice, wed design, etc. This account does not stake.</p>
+<p>There is circa 7.5 million insane placed safely in a non-staking account. This is to be used over the next 2 years based on a firm business plan and a partnership with a respccted cryptocurrency media outlet.</p>
 
 ----
 
@@ -116,7 +94,7 @@ addnode=216.189.144.26</p>
 - To use the " USE_UPNP=- " or not! Just add it if you are used to it. 
 
 
-- server
+- daemon
 
 <p>make -f makefile.unix</p>
 
@@ -131,9 +109,9 @@ addnode=216.189.144.26</p>
 
 ----
 
-# extra #
+# Bitcoin Talk #
 
-<p> Coin swap details and mining details to be provided at <a href="https://bitcointalk.org/index.php?topic=1625942.0" target="_blank">bitcointalk</a> by any interested parties. This includes what to do with the extra 7.5 million insane.</p>
+<p>The community thread for insane is at <a href="https://bitcointalk.org/index.php?topic=1625942.0" target="_blank">bitcointalk</a></p>
 
 ----
 
