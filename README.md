@@ -1,5 +1,5 @@
 
-# Welcome to the INSANE [COIN] repository # 
+# Welcome to the INSANE [COIN] repository  
 
 ----
 
