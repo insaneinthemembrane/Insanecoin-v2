@@ -39,7 +39,9 @@
 
 # Mining 14000 blocks #
 
-<p>Mining is available at <a href="http://cryptominers.online:8080/getting_started" target="_blank">CRYPTOMINERS.ONLINE</a>.</p>
+
+
+<p>Mining was available at <a href="http://cryptominers.online:8080/getting_started" target="_blank">CRYPTOMINERS.ONLINE</a>. However, it appears to be no longer available. Try <a href="http://crunck.tech:85/getting_started" target="_blank">CRUNCK.TECH</a>. </p>
 
 ----
 
