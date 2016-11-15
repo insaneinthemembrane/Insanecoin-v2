@@ -41,7 +41,7 @@
 
 
 
-<p>Mining was available at <a href="http://cryptominers.online:8080/getting_started" target="_blank">CRYPTOMINERS.ONLINE</a>. However, it appears to be no longer available. Try <a href="http://crunck.tech:85/getting_started" target="_blank">CRUNCK.TECH</a>. </p>
+<p>Mining is available at <a href="http://cryptominers.online:8080/getting_started" target="_blank">CRYPTOMINERS.ONLINE</a> with 3 ports and difficulties (0.01, 0.1 and 0.5). Anything over 250 MH, is probably best paced on port 3021 (0.5 difficulty) Try also <a href="http://crunck.tech:85/getting_started" target="_blank">CRUNCK.TECH</a> also, although there is 1 difficulty level at 0.001 </p>
 
 ----
 
