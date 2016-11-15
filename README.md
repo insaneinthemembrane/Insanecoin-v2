@@ -120,7 +120,9 @@ addnode=216.189.144.26</p>
 
 # Insane in the Membrane! #
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Dy8EwH2R1MU" width="560" height="315" /></a>
+https://www.youtube.com/watch?v=Dy8EwH2R1MU&feature=youtu.be
+
+https://www.youtube.com/watch?v=0Ixf0UD2-Js
 
 
 
