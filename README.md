@@ -120,10 +120,17 @@ addnode=216.189.144.26</p>
 
 # Insane in the Membrane! #
 
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Dy8EwH2R1MU" frameborder="0" allowfullscreen></iframe>
+
+
+
 <p><img alt="insane in the membrane" src="http://v013o.popscreen.com/eDlncHQwMTI=_o_cypress-hill---insane-in-the-brain.jpg" style="width: 533px; height: 400px;" /></p>
 
 
 ----
+
+
 
 <p>Best of luck, Mountaind</p>
 
