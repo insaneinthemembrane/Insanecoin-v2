@@ -116,7 +116,7 @@ in your insane.conf (I have not tested it)</p>
 
 ----
 
-# Daemon # 
+# Daemon 
 
 <p>make -f makefile.unix<br /> 
 or<br />
