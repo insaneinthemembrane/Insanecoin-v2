@@ -142,11 +142,19 @@ qmake -qt=qt4 USE_UPNP=-</p>
 
 ----
 
-# Insane in the Membrane! #
+# Insane in the Membrane Media! #
 
-https://www.youtube.com/watch?v=Dy8EwH2R1MU&feature=youtu.be
+<table border="0" cellpadding="8" cellspacing="8">
+	<tbody>
+		<tr>
+			<td><a href="http://trumpinsane.pw/insanecoin/insane.html" target="_blank"><img alt="insane in the membrane" src="https://cdn.pbrd.co/images/sXrCQ1pcy.jpg" style="width: 380px; height: 220px;" /></a></td>
+			<td><a href="http://trumpinsane.pw/insanecoin/FUN-LOVING-CRYPTONALS.html" target="_blank"><img alt="fun loving criminals" src="https://cdn.pbrd.co/images/sXsWFPcEi.jpg" style="width: 380px; height: 220px;" /></a></td>
+		</tr>
+	</tbody>
+</table>
 
-https://www.youtube.com/watch?v=0Ixf0UD2-Js
+----
+
 
 
 
