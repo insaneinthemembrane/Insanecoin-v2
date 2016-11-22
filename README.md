@@ -15,6 +15,7 @@
 - Minimum Stake Age is 12 hours
 - Maximum Stake Age is 120 hours
 
+>Trumpinsane and Insanecoin both developed Mountaind
 
 ----
 
