@@ -1,6 +1,8 @@
 
 # Welcome to the INSANE [COIN] repository  
 
+( Instructions for setting up Iquidus Explorer are here: https://github.com/insaneinthemembrane/install-iquidus-explorer )
+
 ----
 
 - Algorithm: X11
