@@ -26,12 +26,13 @@
 
 ----
 
-# Yobit and Nova Exchanges #
+# Yobit, Nova and Tradesatoshi Exchanges #
 
 <p>Insane is available to trade at:</p>
 
 <a href="https://yobit.net/en/trade/INSANE/BTC" target="_blank">Yobit INSANE/BTC</a><br>
-<a href="https://novaexchange.com/market/BTC_INSANE/" target="_blank">NOVA INSANE/BTC</a></p>
+<a href="https://novaexchange.com/market/BTC_INSANE/" target="_blank">NOVA INSANE/BTC</a><br>
+<a href="https://tradesatoshi.com/Exchange?market=INSAN_BTC" target="_blank">TRADESATOSHI INSANE/BTC</a></p>
 
 
 ----
