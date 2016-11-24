@@ -76,7 +76,7 @@
 
 insanecoin.thecryptochat.net</p>
 
-<p>Contact <a href="https://bitcointalk.org/index.php?topic=1625942.0" target="_blank">Bitcoin Talk Insane thread</a> if you are interested in donating any cryptocurrency to pay for a another high profile explorer host to get the brand "Insane" seeen by as many people as possible.</p>
+<p>Contact <a href="https://bitcointalk.org/index.php?topic=1625942.0" target="_blank">Bitcoin Talk Insane thread</a> if you are interested in donating any cryptocurrency to pay for a another high profile explorer host to get the brand "Insane" seen by as many people as possible.</p>
 
 
 ----
