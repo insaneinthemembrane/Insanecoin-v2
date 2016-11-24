@@ -1,7 +1,8 @@
 
 # Welcome to the INSANE [COIN] repository  
 
-( Instructions for setting up Iquidus Explorer are here: https://github.com/insaneinthemembrane/install-iquidus-explorer )
+
+>Instructions for setting up Iquidus Explorer are here: https://github.com/insaneinthemembrane/install-iquidus-explorer )
 
 ----
 
@@ -70,6 +71,8 @@
 <p>An explorer is running here, which I have put up, (but alternative arrangements will be made):</p>
 
 <p><a href="http://explorer.insanecoin.com:3001/" target="_blank">explorer.insanecoin.com</a></p>
+
+<p>If the above link does not work use a directlink to: insanecoin.thecryptochat.net</p>
 
 
 ----
