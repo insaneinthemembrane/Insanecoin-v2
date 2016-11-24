@@ -68,11 +68,15 @@
 # Insane Explorer #
 
 
-<p>An explorer is running here, which I have put up, (but alternative arrangements will be made):</p>
+<p>An explorer is running here, which replaces the one I had put up, (it is the same familiar Iquidus):</p>
 
 <p><a href="http://explorer.insanecoin.com:3001/" target="_blank">explorer.insanecoin.com</a></p>
 
-<p>If the above link does not work use a directlink to: insanecoin.thecryptochat.net</p>
+<p>If the above link does not work use a directlink to: <br />
+
+insanecoin.thecryptochat.net</p>
+
+<p>Contact <a href="https://bitcointalk.org/index.php?topic=1625942.0" target="_blank">Bitcoin Talk Insane thread</a> if you are interested in donating any cryptocurrency to pay for a another high profile explorer host to get the brand "Insane" seeen by as many people as possible.</p>
 
 
 ----
