@@ -26,6 +26,8 @@
 
 <p>All necessary details about links to faucets, dice, blackjack and so on, can be found listed there.</p>
 
+<p>Details about the coin burn session on 3rd December can also be foun there. There will be about a 17% reduction in available coins. Remember to deduct 3,700,000 coins from the explorer's "coin supply," i.e. 22.1 million coins will reduced by 3.7 million equals a 18.4 million available coins. Nine Burn addresses have been created with explcit reference to "Coin Destruction." These are all labeled for public viewing.</p>
+
 ----
 
 # Yobit, Nova and Tradesatoshi Exchanges #
@@ -56,12 +58,6 @@
 # Joint Staking #
 
 <p>Online joint staking is available at <a href="https://poswallet.com/login.php" target="_blank">POSWALLET.COM</a>. There is also a faucet there and explorer.</p>
-
-----
-
-# An extra 7.5 million insane #
-
-<p>There is circa 7.5 million insane placed safely in a non-staking account. This is to be used over the next 2 years based on a firm business plan and a partnership with a respccted cryptocurrency media outlet.</p>
 
 ----
 
