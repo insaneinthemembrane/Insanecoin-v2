@@ -1,5 +1,5 @@
 
-# Welcome to the INSANE [COIN] repository  
+# INSANE [COIN] DEV ARCHIVE  
 
 
 >Instructions for setting up Iquidus Explorer are here: https://github.com/insaneinthemembrane/install-iquidus-explorer )
