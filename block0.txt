@@ -13,7 +13,7 @@ Insanecoin /
   "version": 1, /
   "merkleroot": "0693303342b4c9f8e66d64fea27392915dc7b70a00cc1c912793611bc42d0cb0", // Hash Merkle Root /
   "mint": 0, /
-  "time": 1476728431, // Unix Time /
+ > "time": 1476728431, // Unix Time /  
   "nonce": 1571167, // Nonce /
   "bits": "1e0fffff", /
   "difficulty": 0.00024414, /
@@ -29,3 +29,39 @@ Insanecoin /
     "0693303342b4c9f8e66d64fea27392915dc7b70a00cc1c912793611bc42d0cb0" /
   ] /
 } /
+
+------
+
+Block 1, 
+
+http://insanecoin.thecryptochat.net/api/getblock?hash=00000db71320614c35bc9472241866cc2731fc77d0f7aa7b74996bcf204f9d21
+
+{
+  "hash": "00000db71320614c35bc9472241866cc2731fc77d0f7aa7b74996bcf204f9d21",
+  "confirmations": 11865,
+  "size": 174,
+  "height": 1,
+  "version": 6,
+  "merkleroot": "98b847d1e58d722c26ab2a31ef47d731ccc86c5848b0220f52f4521777265c80",
+  "mint": 22000000,
+  >"time": 1476964360,
+  "nonce": 3623422720,
+  "bits": "1e0fffff",
+  "difficulty": 0.00024414,
+  "blocktrust": "100001",
+  "chaintrust": "200002",
+  "previousblockhash": "0000070752e39f4b9b3025ecc352b684691e67f43607100159d56b52e0a3cc64",
+  "nextblockhash": "0000090aedf2836e954ff02339d69f1fc336f5150394555f86af9b212e4fcc1c",
+  "flags": "proof-of-work",
+  "proofhash": "00000db71320614c35bc9472241866cc2731fc77d0f7aa7b74996bcf204f9d21",
+  "entropybit": 1,
+  "modifier": "0000000000000000",
+  "modifierchecksum": "d322d8c6",
+  "tx": [
+    "98b847d1e58d722c26ab2a31ef47d731ccc86c5848b0220f52f4521777265c80"
+  ]
+}
+
+
+1476728431-1476964360, 10/17/2016 @ 6:20pm (UTC)-10/20/2016 @ 11:52am (UTC)
+3 day gap between 0 and block 1, block 0 does not exist on the cryptochat explorer.
