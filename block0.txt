@@ -63,5 +63,3 @@ http://insanecoin.thecryptochat.net/api/getblock?hash=00000db71320614c35bc947224
 }
 
 
-1476728431-1476964360, 10/17/2016 @ 6:20pm (UTC)-10/20/2016 @ 11:52am (UTC)
-3 day gap between 0 and block 1, block 0 does not exist on the cryptochat explorer.
