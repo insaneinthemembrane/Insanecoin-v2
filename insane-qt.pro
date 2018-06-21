@@ -2,38 +2,22 @@ TEMPLATE = app
 TARGET = insane-qt
 VERSION = 1.0.0
 INCLUDEPATH += src src/json src/qt
-DEFINES += QT_GUI BOOST_THREAD_USE_LIB BOOST_SPIRIT_THREADSAFE HAVE_CXX_STDHEADERS MINIUPNP_STATICLIB
+QT += core gui network 
+DEFINES += QT_GUI BOOST_THREAD_USE_LIB BOOST_SPIRIT_THREADSAFE
+DEFINES += QT_STATIC
 CONFIG += no_include_pwd
 CONFIG += thread
 CONFIG += static
-greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
-lessThan(QT_MAJOR_VERSION, 5): CONFIG += static
+CONFIG += openssl
+# CONFIG += openssl-linked
+# and 
+
 QMAKE_CXXFLAGS = -fpermissive
 
 greaterThan(QT_MAJOR_VERSION, 4) {
     QT += widgets
-    DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0
+    DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0x040800
 }
-
-win32 {
-windows:LIBS += -lshlwapi
-LIBS += $$join(BOOST_LIB_PATH,,-L,) $$join(BDB_LIB_PATH,,-L,) $$join(OPENSSL_LIB_PATH,,-L,) $$join(QRENCODE_LIB_PATH,,-L,)
-LIBS += -lssl -lcrypto -ldb_cxx$$BDB_LIB_SUFFIX
-windows:LIBS += -lws2_32 -lole32 -loleaut32 -luuid -lgdi32
-
-BOOST_LIB_SUFFIX=-mgw49-mt-s-1_55
-BOOST_INCLUDE_PATH=C:/deps/boost_1_55_0
-BOOST_LIB_PATH=C:/deps/boost_1_55_0/stage/lib
-BDB_INCLUDE_PATH=C:/deps/db-4.8.30.NC/build_unix
-BDB_LIB_PATH=C:/deps/db-4.8.30.NC/build_unix
-OPENSSL_INCLUDE_PATH=C:/deps/openssl-1.0.1j/include
-OPENSSL_LIB_PATH=C:/deps/openssl-1.0.1j
-MINIUPNPC_INCLUDE_PATH=C:/deps/
-MINIUPNPC_LIB_PATH=C:/deps/miniupnpc
-QRENCODE_INCLUDE_PATH=C:/deps/qrencode-3.4.4
-QRENCODE_LIB_PATH=C:/deps/qrencode-3.4.4/.libs
-}
-
 
 # for boost 1.37, add -mt to the boost libraries
 # use: qmake BOOST_LIB_SUFFIX=-mt
@@ -45,9 +29,23 @@ QRENCODE_LIB_PATH=C:/deps/qrencode-3.4.4/.libs
 #    BOOST_INCLUDE_PATH, BOOST_LIB_PATH, BDB_INCLUDE_PATH,
 #    BDB_LIB_PATH, OPENSSL_INCLUDE_PATH and OPENSSL_LIB_PATH respectively
 
+ BOOST_LIB_SUFFIX=-mgw49-mt-s-1_55
+ BOOST_INCLUDE_PATH=C:/deps/boost_1_55_0
+ BOOST_LIB_PATH=C:/deps/boost_1_55_0/stage/lib
+ BDB_INCLUDE_PATH=C:/deps/db-4.8.30.NC/build_unix
+ BDB_LIB_PATH=C:/deps/db-4.8.30.NC/build_unix
+ OPENSSL_INCLUDE_PATH=C:/deps/openssl-1.0.1j/include
+ OPENSSL_LIB_PATH=C:/deps/openssl-1.0.1j
+ MINIUPNPC_INCLUDE_PATH=C:/deps/
+ MINIUPNPC_LIB_PATH=C:/deps/miniupnpc
+ QRENCODE_INCLUDE_PATH=C:/deps/qrencode-3.4.4
+ QRENCODE_LIB_PATH=C:/deps/qrencode-3.4.4/.libs
+
 OBJECTS_DIR = build
 MOC_DIR = build
 UI_DIR = build
+
+
 
 # use: qmake "RELEASE=1"
 contains(RELEASE, 1) {
